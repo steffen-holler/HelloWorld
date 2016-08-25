@@ -9,9 +9,9 @@ namespace HelloWorld
     class Program
     {
         /// <summary>
-        /// Simple hello world application. This is ment to be more of
+        /// Simple hello world application. This is meant to be more of
         /// an introduction into using the GitHub Repository then an 
-        /// excerise in C#. 
+        /// exercise in C#. 
         /// </summary>
         /// <param name="args">Program arguments that I'm going to ignore</param>
         static void Main(string[] args)
